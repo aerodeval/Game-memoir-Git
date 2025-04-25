@@ -1,0 +1,53 @@
+{
+  "name": "learning-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "prod": "next export"
+  },
+  "dependencies": {
+    "@chakra-ui/layout": "^2.3.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@hookform/resolvers": "^3.3.4",
+    "@nextui-org/modal": "^2.0.33",
+    "@nextui-org/react": "^2.2.10",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "bootstrap5-tags": "^1.7.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "embla-carousel-react": "^8.0.2",
+    "firebase": "^10.11.0",
+    "framer-motion": "^11.0.28",
+    "lucide-react": "^0.368.0",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.3",
+    "react-hot-toast": "^2.4.1",
+    "react-modal": "^3.16.1",
+    "react-responsive-masonry": "^2.7.1",
+    "react-tag-input": "^6.9.0",
+    "react-tag-input-component": "^2.0.2",
+    "react-toastify": "^10.0.5",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-responsive-masonry": "^2.6.0",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
